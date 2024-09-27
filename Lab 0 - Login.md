@@ -1,6 +1,6 @@
 # Feedback
 
-(https://app.nordicsummit.info/feedback)[https://app.nordicsummit.info/feedback]
+https://app.nordicsummit.info/feedback
 
 # Wifi
 
