@@ -1,8 +1,4 @@
-# Fabric And Dataverse Workshop
-
-## Overview
-
-In this workshop we are going to explore how Microsoft Fabric can work with Power Platform developments. We will get data from multiple data sources into Fabric and pass data back into Dataverse. This workshop is a hands on lab. 
+# Nordic Summit - Fabric Introduction
 
 ## Labs
 
