@@ -1,3 +1,7 @@
+# Feedback
+
+(https://app.nordicsummit.info/feedback)[https://app.nordicsummit.info/feedback]
+
 # Wifi
 
 ### Wifi - **MSFTGUEST**  
@@ -12,3 +16,5 @@ alexw@M365x33476913.onmicrosoft.com
 alland@M365x33476913.onmicrosoft.com
 
 ### Password - **Nordic2024!**
+
+#
